@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CAL>
+  <show_actor>true</show_actor>
+  <nr_of_trials>25</nr_of_trials>
+  <logdata_path>C:\Factory\FactoryGenericTools\Drivers\logs\logdata.csv</logdata_path>
+  <nr_of_channels>4</nr_of_channels>
+  <pset_folder_path>C:\Factory\FactoryGenericTools\Drivers\calibration\documentation\pset</pset_folder_path>
+  <error_margin>5</error_margin>
+</CAL>

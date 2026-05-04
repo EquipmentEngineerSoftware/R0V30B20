@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SNR>
+  <show_actor>true</show_actor>
+  <mrd_folder_path>C:\Data\projects\MR\mrd data files\dataset_3</mrd_folder_path>
+  <parameters_inifile_path>C:\Factory\FactoryGenericTools\Drivers\snr\snr\Parameters.ini</parameters_inifile_path>
+  <outputfile_path>C:\Factory\FactoryGenericTools\Drivers\snr\snr\outputfile.txt</outputfile_path>
+  <nr_of_coils>12</nr_of_coils>
+</SNR>
