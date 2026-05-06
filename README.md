@@ -61,10 +61,5 @@
 |Testbay16(FPRT)|MR-SI<br />|Various Systems /SVC<br />|QF|4522-230-40231<br />|Labview2014<br />|FPRT\_R5V3B3|
 
 
-
-<span style="color:red">This text is red</span>
-
-<span style="color:#008000">This text is green (using hex)</span>
-
-<span style="color:rgb(0, 0, 255)">This text is blue (using RGB)</span>
-
+![Red Text](https://img.shields.io/badge/Status-Inactive-red)
+![Green Text](https://img.shields.io/badge/Status-Active-brightgreen)
