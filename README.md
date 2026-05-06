@@ -61,5 +61,7 @@
 |Testbay16(FPRT)|MR-SI<br />|Various Systems /SVC<br />|QF|4522-230-40231<br />|Labview2014<br />|FPRT\_R5V3B3|
 
 
-![Red Text](https://img.shields.io/badge/Status-Inactive-red)
-![Green Text](https://img.shields.io/badge/Status-Active-brightgreen)
+graph TD
+  A[Start] --> B(Step 2)
+  style A fill:#f96,stroke:#333,stroke-width:4px
+  style B fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff
